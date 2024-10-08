@@ -1,4 +1,3 @@
-[![MasterHead](https://images.app.goo.gl/LguNeETGL3SJBDuQ8.gif)]
 <h1 align="center">Hi 👋, I'm Asim P A</h1>
 <h3 align="center">Full Stack Developer | Passionate about Building Innovative Solutions | Based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

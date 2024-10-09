@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Asim+P+A;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Asim+P+A;Full+Stack+Developer;Based+In+India" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azimpa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="azimpa" />
@@ -22,13 +22,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=azimpa&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 
-- 🌱 Enhancing skills in **Node.js, Express, and deployment strategies**
-- 👨‍💻 Portfolio: [https://asim-pa.vercel.app/](https://asim-pa.vercel.app/)
-- 💬 Ask me about **Python, Django, React, SQL and NoSQL**
-- 📫 Reach me at **muhammedasim.pa@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1cBP9zgCVBozFWVDi9LeFKjndLyCuOuiK/view?usp=sharing)
-- ⚡ Fun fact: **I debug in my sleep (literally - I talk code in my dreams).**
-
+- 🔧 **Currently Focusing On:** Enhancing skills in Node.js, Express, and advanced deployment strategies
+- 🌐 **Portfolio:** [Asim P A](https://asim-pa.vercel.app/)
+- 💡 **Expertise:** Python, Django, React, SQL and NoSQL databases
+- 📬 **Get in Touch:** [muhammedasim.pa@gmail.com](mailto:muhammedasim.pa@gmail.com)
+- 📄 **Professional Journey:** [View My Resume](https://drive.google.com/file/d/1cBP9zgCVBozFWVDi9LeFKjndLyCuOuiK/view?usp=sharing)
+- 💻 **Fun Fact:** I debug in my sleep - my subconscious is always refactoring!
 ## 🛠 Tech Stack
 
 <p align="center">
